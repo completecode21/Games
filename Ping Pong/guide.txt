@@ -1,0 +1,3 @@
+key board keys
+use w for up 
+use x for down
